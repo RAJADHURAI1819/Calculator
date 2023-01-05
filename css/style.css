@@ -1,0 +1,55 @@
+.align {
+    text-align: center;
+}
+.cen{
+    text-align: center;
+}
+.b {
+    height: 25px;
+    width: 30px;
+}
+.logo{
+    display:flex;
+    align-items: center;
+    gap:30px;
+}
+
+.space {
+    margin: 10px;
+}
+
+#display {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#ans {
+    text-align: center;
+}
+.navbar{
+    display:flex;
+    flex-wrap:wrap;
+    align-items: center;
+    justify-content:center;
+    background-color:rgb(14, 188, 236) ;
+    padding:15px;
+    margin-bottom: 50px;
+}
+.links{
+    text-decoration: none;
+    color:black;
+}
+button{
+    background-color: yellow;
+    height:35px;
+    width:150px;
+    border-radius: 10px;
+    font-size: medium;
+    font-weight: bold;
+}
+button:hover{
+    background-color: aliceblue;
+}
+.alignbutton{
+  text-align: center;
+}
